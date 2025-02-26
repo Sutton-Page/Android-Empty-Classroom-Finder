@@ -7,5 +7,7 @@ While in university, I enjoyed working in empty classrooms on campus. However, d
 
 ### Main Page
 
+![](./screenshots/home.PNG)
+
 ### Page after searching for open classrooms
 
